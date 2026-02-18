@@ -1,1 +1,1 @@
-# git-setup
+Repository for git setup, Dedeep Surampudi
